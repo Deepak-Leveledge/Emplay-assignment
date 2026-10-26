@@ -1,0 +1,12 @@
+{
+  "bid_id": "Bid2",
+  "agent": "addendum_reconciliation",
+  "addenda_found_in_retrieved_evidence": [],
+  "changes": [],
+  "review_notes": [
+    "No addendum-labeled passages were retrieved. This does not prove that the bid has no addenda; check retrieval coverage before accepting an empty change log."
+  ],
+  "evidence_count": 9,
+  "latency_ms": 17448.71,
+  "model": "openai/gpt-oss-20b"
+}

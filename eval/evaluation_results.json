@@ -1,0 +1,197 @@
+{
+  "total_questions": 20,
+  "cutoff": 5,
+  "methodology": "One expected source passage per question. A passage matches when filename, page and at least one expected keyword match. Recall@5 is hit rate for this single-target evaluation set.",
+  "vector_only": {
+    "recall_at_5": 0.95,
+    "mrr_at_5": 0.7041666666666667,
+    "hits_at_5": 19.0
+  },
+  "hybrid": {
+    "recall_at_5": 0.9,
+    "mrr_at_5": 0.7416666666666667,
+    "hits_at_5": 18.0
+  },
+  "per_question": [
+    {
+      "id": "q01",
+      "query": "What is the final submission deadline for Bid1 after addendums?",
+      "bid_id": "Bid1",
+      "vector_only_rank": 1,
+      "hybrid_rank": 1,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q02",
+      "query": "What is the official solicitation number for Bid1?",
+      "bid_id": "Bid1",
+      "vector_only_rank": 2,
+      "hybrid_rank": 4,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q03",
+      "query": "What is the initial contract term and renewal option for Bid1?",
+      "bid_id": "Bid1",
+      "vector_only_rank": 1,
+      "hybrid_rank": 1,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q04",
+      "query": "When is the pre-proposal meeting for Bid1 and how will it be held?",
+      "bid_id": "Bid1",
+      "vector_only_rank": 1,
+      "hybrid_rank": 1,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q05",
+      "query": "What is the minimum USB port specification for non-touch displays in Bid1?",
+      "bid_id": "Bid1",
+      "vector_only_rank": null,
+      "hybrid_rank": null,
+      "vector_only_hit_at_5": false,
+      "hybrid_hit_at_5": false
+    },
+    {
+      "id": "q06",
+      "query": "What minimum warranty duration is requested for student Chromebooks and Windows laptops in Bid1?",
+      "bid_id": "Bid1",
+      "vector_only_rank": 4,
+      "hybrid_rank": 4,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q07",
+      "query": "Must Bid1 vendors keep devices in inventory stock?",
+      "bid_id": "Bid1",
+      "vector_only_rank": 2,
+      "hybrid_rank": 1,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q08",
+      "query": "When must Form 1295 be submitted for Bid1?",
+      "bid_id": "Bid1",
+      "vector_only_rank": 4,
+      "hybrid_rank": 2,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q09",
+      "query": "Which types of computing devices are included in Bid1?",
+      "bid_id": "Bid1",
+      "vector_only_rank": 3,
+      "hybrid_rank": null,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": false
+    },
+    {
+      "id": "q10",
+      "query": "What is the proposal due date for the Dell PORFP?",
+      "bid_id": "Bid2",
+      "vector_only_rank": 1,
+      "hybrid_rank": 1,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q11",
+      "query": "How must bidders submit their response to the Dell PORFP?",
+      "bid_id": "Bid2",
+      "vector_only_rank": 1,
+      "hybrid_rank": 1,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q12",
+      "query": "When is the closing deadline for questions on the Dell PORFP?",
+      "bid_id": "Bid2",
+      "vector_only_rank": 1,
+      "hybrid_rank": 1,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q13",
+      "query": "Within how many days after award must the Dell equipment be delivered?",
+      "bid_id": "Bid2",
+      "vector_only_rank": 2,
+      "hybrid_rank": 1,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q14",
+      "query": "What Dell manufacturer authorization is required from the bidder?",
+      "bid_id": "Bid2",
+      "vector_only_rank": 1,
+      "hybrid_rank": 1,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q15",
+      "query": "Which affidavit does the Dell PORFP explicitly require?",
+      "bid_id": "Bid2",
+      "vector_only_rank": 2,
+      "hybrid_rank": 1,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q16",
+      "query": "Which processor is specified for the Dell Latitude 5550?",
+      "bid_id": "Bid2",
+      "vector_only_rank": 1,
+      "hybrid_rank": 1,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q17",
+      "query": "What product models and quantities are requested in the Dell PORFP?",
+      "bid_id": "Bid2",
+      "vector_only_rank": 1,
+      "hybrid_rank": 2,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q18",
+      "query": "How long is the Dell laptop hardware warranty and what evidence must be provided?",
+      "bid_id": "Bid2",
+      "vector_only_rank": 4,
+      "hybrid_rank": 3,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q19",
+      "query": "When must invoices be submitted for the Dell PORFP and where should they be emailed?",
+      "bid_id": "Bid2",
+      "vector_only_rank": 1,
+      "hybrid_rank": 1,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    },
+    {
+      "id": "q20",
+      "query": "What does the Contract Affidavit require regarding registration of the business in Maryland?",
+      "bid_id": "Bid2",
+      "vector_only_rank": 1,
+      "hybrid_rank": 1,
+      "vector_only_hit_at_5": true,
+      "hybrid_hit_at_5": true
+    }
+  ]
+}

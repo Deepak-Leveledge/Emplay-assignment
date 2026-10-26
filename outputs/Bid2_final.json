@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0",
+  "bid_id": "Bid2",
+  "fields": {
+    "Bid Number": {
+      "value": "#E20P4600040",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "chunk_id": "86309f0f0a4c95044859059e",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n1\n\nSection 1 –General Information\n\nPORFP Number:\n\n#E20P4600040\neMMA Project Number: BPM044557\nPORFP Type:\n\nFixed Price\nFunctional Area/s (FA)\nfor this PORFP:\n\nFA I (Printers and Associated Peripherals)\nFA V (Manufacturer’s Extended Warranty)\n\nManufacturer Name\n\nDell\n\nDesignated Small\nBusiness Reserve?(SBR):\n\nYes\nMinority Business Enterprise (MBE) Goal for FA IV Below\n(See “Hardware Master Contract MBE Participation Worksheet”):\n0 %\nPORFP Issue Date:\nmm/dd/yyyy\n05/24/2024\nPROPOSAL DUE\nDATE and TIME:\n06/10/2024\nPlace of Performance:\nMD State Treasurer's Office\n80 Clavert Street\nAnnapolis MD 21401\nSpecial Instructions:\n\nLIMITED TO MASTER CONTRACTORS\nOnly Master Contractors that are awarded a contract under the\nDesktop,\nLap"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    },
+    "Title": {
+      "value": "Dell Laptops w/Extended Warranty",
+      "sources": [
+        {
+          "file": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": null,
+          "chunk_id": "05c3d5afadf370454147f1cd",
+          "quote": "Dell Laptops w/Extended Warranty - Bid Information - {3} | BidNet Direct\n\nLoading...\nOk\nSkip to main content\nGo to homepage\nSolicitations\nSearch\nSearch\nBlank Envelope\nMatching Profiles\nBlank Envelope\nSaved Searches\nBid Management\nBid Management\nDartboard\nQualifications\nContracts\nContract Management\nReports\nDashboard\nDashboard\nRequested Documents\nRequested Documents\nParticipating Organizations\nParticipating Organizations\nParticipating Organizations\nHelp\nHelp\nAvatar\nMy Profile\nMy Organization\nContacts\nPurchasing Groups\nFinance\nServices\nLogout\nMy Profile\nMy Organization\nContacts\nPurchasing Groups\nFinance\nServices\nLogout\n​\nSearch\nSearch\nBlank Envelope\nMatching Profiles\nBlank Envelope\nSaved Searches\nBid Management\nBid Management\nDartboard\nQualifications\nDashboard\nDashboard\nRequested Documents\nR"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    },
+    "Due Date": {
+      "value": "06/10/2024",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "chunk_id": "86309f0f0a4c95044859059e",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n1\n\nSection 1 –General Information\n\nPORFP Number:\n\n#E20P4600040\neMMA Project Number: BPM044557\nPORFP Type:\n\nFixed Price\nFunctional Area/s (FA)\nfor this PORFP:\n\nFA I (Printers and Associated Peripherals)\nFA V (Manufacturer’s Extended Warranty)\n\nManufacturer Name\n\nDell\n\nDesignated Small\nBusiness Reserve?(SBR):\n\nYes\nMinority Business Enterprise (MBE) Goal for FA IV Below\n(See “Hardware Master Contract MBE Participation Worksheet”):\n0 %\nPORFP Issue Date:\nmm/dd/yyyy\n05/24/2024\nPROPOSAL DUE\nDATE and TIME:\n06/10/2024\nPlace of Performance:\nMD State Treasurer's Office\n80 Clavert Street\nAnnapolis MD 21401\nSpecial Instructions:\n\nLIMITED TO MASTER CONTRACTORS\nOnly Master Contractors that are awarded a contract under the\nDesktop,\nLaptop\nand\nTablet\n2015\nMaster\nContract,\n060B5400007, are eligible to submit a bid in response to this\nsecondary competition Purchase Order Request for Proposal\n(PORFP).\n\nSMALL BUSINESS RESERVE (SBR) PROCUREMENT\nThis is a Small Business Reserve Procurement for which award\nwill be limited to certified small business vendors. Only\nbusinesses that meet the statutory requirements set forth in\nState Financ"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "chunk_id": "86e943c701879697bcabeecd",
+          "quote": "| | Business Reserve?(SBR): | | | | | | |\n| | Minority Business Enterprise (MBE) Goal for FA IV Below | | | | | | 0 % |\n| | (See “Hardware Master Contract MBE Participation Worksheet”): | | | | | | |\n| | PORFP Issue Date: | | 05/24/2024 | | PROPOSAL DUE | | 06/10/2024 |\n| | mm/dd/yyyy | | | | DATE and TIME: | | |\n| Place of Performance: | Place of Performance: | | MD State Treasurer's Office 80 Clavert Street Annapolis MD 21401 | | | | |\n| Special Instructions: | | | LIMITED TO MASTER CONTRACTORS Only Master Contractors that are awarded a contract under the Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007, are eligible to submit a bid in response to this secondary competition Purchase Order Request for Proposal (PORFP). SMALL BUSINESS RESERVE (SBR) PROCUREMENT This is a Small Business Reserve Procurement for which award will be limited to certified small business vendors. Only businesses that meet the statutory requirements set forth in State Finance and Procurement Article, §§14-501—14-505, Annotated Code of Maryland, and that are certified by GOSBA Small Business Reserve Program are eligible for award of a contract. BID SUBMISSION INSTRUCTIONS Purchase Order Request f"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    },
+    "Bid Submission Type": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "No explicit submission method provided in the evidence."
+    },
+    "Term of Bid": {
+      "value": "Proposals must be valid for at least 90 days after the proposal due date.",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "chunk_id": "86309f0f0a4c95044859059e",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n1\n\nSection 1 –General Information\n\nPORFP Number:\n\n#E20P4600040\neMMA Project Number: BPM044557\nPORFP Type:\n\nFixed Price\nFunctional Area/s (FA)\nfor this PORFP:\n\nFA I (Printers and Associated Peripherals)\nFA V (Manufacturer’s Extended Warranty)\n\nManufacturer Name\n\nDell\n\nDesignated Small\nBusiness Reserve?(SBR):\n\nYes\nMinority Business Enterprise (MBE) Goal for FA IV Below\n(See “Hardware Master Contract MBE Participation Worksheet”):\n0 %\nPORFP Issue Date:\nmm/dd/yyyy\n05/24/2024\nPROPOSAL DUE\nDATE and TIME:\n06/10/2024\nPlace of Performance:\nMD State Treasurer's Office\n80 Clavert Street\nAnnapolis MD 21401\nSpecial Instructions:\n\nLIMITED TO MASTER CONTRACTORS\nOnly Master Contractors that are awarded a contract under the\nDesktop,\nLaptop\nand\nTablet\n2015\nMaster\nContract,\n060B5400007, are eligible to submit a bid in response to this\ns"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "chunk_id": "bae585da64782fd3c84d0143",
+          "quote": "Table 1\n| | | Questions Due (Closing) Date and Time: 06/01/2024 at 2:00 PM EDT Questions must be submitted in writing to thawkins@treasurer.state.md.us with the subject line, “QUESTION for Dell Laptop #E20P4600040”, and be submitted in writing via e-mail to the Procurement Officer no later than the date and time specified. |\n| --- | --- | --- |\n| Security Requirements (if applicable): | | 1. The Department reserves the right to purchase more or less than the specified quantity to the extent limited by funding. 2. The Master Contractor must provide the estimated ship date/lead time for each item listed in the PORFP FA I 3. Please allow proposals/quotes provided in response to this PORFP to be valid for at least 90 days after the set due date above. 4. The Master Contractor must be an authorized reseller for Dell. The state reserves the right to request a Letter of Authorization (LOA) from"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "chunk_id": "21e8b52f99cf8ad1525c112c",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n2\nQuestions\nDue\n(Closing)\nDate\nand\nTime:\n06/01/2024 at 2:00 PM EDT\nQuestions\nmust\nbe\nsubmitted\nin\nwriting\nto\nthawkins@treasurer.state.md.us\nwith\nthe\nsubject\nline,\n“QUESTION for Dell Laptop #E20P4600040”, and be\nsubmitted in writing via e-mail to the Procurement Officer no later\nthan the date and time specified.\n\nSecurity Requirements (if\napplicable):\n1. The Department reserves the right to purchase more or less\nthan the specified quantity to the extent limited by funding.\n\n2. The Master Contractor must provide the estimated ship\ndate/lead time for each item listed in the PORFP FA I\n\n3. Please allow proposals/quotes provided in response to this\nPORFP to be valid for at least 90 days after the set due date\nabove.\n\n4. The Master Contractor must be an authorized reseller for Dell.\nThe state reserves the right to request a"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": null
+    },
+    "Pre Bid Meeting": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "No pre‑bid meeting information found in the supplied passages."
+    },
+    "Installation": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Installation requirements not found in the retrieved passages."
+    },
+    "Bid Bond Requirement": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Bid bond requirement not found in the provided evidence."
+    },
+    "Delivery Date": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "No delivery date or delivery window specified in the evidence."
+    },
+    "Payment Terms": {
+      "value": "If a financing arrangement is entered into, the Supplier will invoice the financing source upon confirmation that the financing source intends to enter into a Financing Agreement with the Customer.",
+      "sources": [
+        {
+          "file": "Dell_Laptop_Specs.pdf",
+          "page": 3,
+          "chunk_id": "6501b7f18203839adee2b71d",
+          "quote": "specific terms stated on www.dell.com/offeringspecificterms (“Offer Specific Terms”).\nIn case of Resale only: Should Customer procure any products or services for resale, whether on standalone basis or as part of a solution,\nCustomer shall include the applicable software license terms, services terms, and/or offer-specific terms in a written agreement with the enduser and provide written evidence of doing so upon receipt of request from Supplier.\nIn case of Financing only: If Customer intends to enter into a financing arrangement (“Financing Agreement”) for the products and/or\nservices on this Quote with Dell Financial Services LLC or other funding source pre-approved by Supplier (“FS”), Customer may issue its\npurchase order to Supplier or to FS. If issued to FS, Supplier will fulfill and invoice FS upon confirmation that: (a) FS intends to enter into a\nFinancing Agreement with Customer "
+        }
+      ],
+      "confidence": 0.7,
+      "notes": null
+    },
+    "Any Additional Documentation Required": {
+      "value": "Contract Affidavit and Mercury Affidavit",
+      "sources": [
+        {
+          "file": "Contract_Affidavit.pdf",
+          "page": 2,
+          "chunk_id": "cbfd525720d3570a906691ca",
+          "quote": "$200,000 or more, shall file with the State Board of Elections statements disclosing: (a) any\ncontributions made during the reporting period to a candidate for elective office in any primary or\ngeneral election; and (b) the name of each candidate to whom one or more contributions in a\ncumulative amount of $500 or more were made during the reporting period. The statement shall be\nfiled with the State Board of Elections: (a) before execution of a contract by the State, a county, a\nmunicipal corporation, or other political subdivision of the State, and shall cover the 24 months prior\nto when a contract was awarded; and (b) if the contribution is made after the execution of a contract,\nthen twice a year, throughout the contract term, on or before: (i) May 31, to cover the six (6) month\nperiod ending April 30; and (ii) November 30, to cover the six (6) month period ending October 31.\nE.\nDRUG "
+        },
+        {
+          "file": "Contract_Affidavit.pdf",
+          "page": 1,
+          "chunk_id": "43e385450d55e2e439402326",
+          "quote": "A.\nAUTHORITY\nI hereby affirm that I,\n\n(name of affiant) am the\n(title) and duly authorized representative of\n(name of business entity) and that I possess the legal\nauthority to make this affidavit on behalf of the business for which I am acting.\nB.\nCERTIFICATION OF REGISTRATION OR QUALIFICATION WITH THE STATE\nDEPARTMENT OF ASSESSMENTS AND TAXATION\nI FURTHER AFFIRM THAT:\nThe business named above is a (check applicable box):\n(1) Corporation - domestic or foreign;\n(2) Limited Liability Company - domestic or foreign;\n(3) Partnership - domestic or foreign;\n(4) Statutory Trust - domestic or foreign;\n(5) Sole Proprietorship.\nand is registered or qualified as required under Maryland Law. I further affirm that the above\nbusiness is in good standing both in Maryland and (IF APPLICABLE) in the jurisdiction where it is\npresently organized, and has filed all of its annual reports, together w"
+        },
+        {
+          "file": "Mercury_Affidavit.pdf",
+          "page": 1,
+          "chunk_id": "50aae1ca8b8a81317d3b3ee4",
+          "quote": "MERCURY AFFIDAVIT\nAUTHORIZED REPRESENTATIVE THEREBY AFFIRM THAT:\nI am the _________________ (Title) and the duly authorized representative of\n_______________________ (Business). I possess the legal authority to make this affidavit on\nbehalf of myself and the business for which I am acting.\nMERCURY CONTENT INFORMATION:\n[ ] The product(s) offered do not contain mercury.\nOR\n[ ] The product(s) offered do contain mercury.\n(1) Describe the product or product component that contains\nmercury.\n(2) Provide the amount of mercury that is contained in the product\nor product component. Indicate the unit of measure being used.\nI ACKNOWLEDGE THAT this affidavit is to be furnished to the procurement officer and may\nbe distributed to units of (1) the State of Maryland; (2) counties or other subdivisions of the State\nof Maryland; (3) other states; and (4) the federal government. I further acknowledge that "
+        }
+      ],
+      "confidence": 0.8,
+      "notes": null
+    },
+    "MFG for Registration": {
+      "value": "Dell",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "chunk_id": "86309f0f0a4c95044859059e",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n1\n\nSection 1 –General Information\n\nPORFP Number:\n\n#E20P4600040\neMMA Project Number: BPM044557\nPORFP Type:\n\nFixed Price\nFunctional Area/s (FA)\nfor this PORFP:\n\nFA I (Printers and Associated Peripherals)\nFA V (Manufacturer’s Extended Warranty)\n\nManufacturer Name\n\nDell\n\nDesignated Small\nBusiness Reserve?(SBR):\n\nYes\nMinority Business Enterprise (MBE) Goal for FA IV Below\n(See “Hardware Master Contract MBE Participation Worksheet”):\n0 %\nPORFP Issue Date:\nmm/dd/yyyy\n05/24/2024\nPROPOSAL DUE\nDATE and TIME:\n06/10/2024\nPlace of Performance:\nMD State Treasurer's Office\n80 Clavert Street\nAnnapolis MD 21401\nSpecial Instructions:\n\nLIMITED TO MASTER CONTRACTORS\nOnly Master Contractors that are awarded a contract under the\nDesktop,\nLaptop\nand\nTablet\n2015\nMaster\nContract,\n060B5400007, are eligible to submit a bid in response to this\ns"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": null
+    },
+    "Contract or Cooperative to use": {
+      "value": "Hardware Master Contract (Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007)",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "chunk_id": "86309f0f0a4c95044859059e",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n1\n\nSection 1 –General Information\n\nPORFP Number:\n\n#E20P4600040\neMMA Project Number: BPM044557\nPORFP Type:\n\nFixed Price\nFunctional Area/s (FA)\nfor this PORFP:\n\nFA I (Printers and Associated Peripherals)\nFA V (Manufacturer’s Extended Warranty)\n\nManufacturer Name\n\nDell\n\nDesignated Small\nBusiness Reserve?(SBR):\n\nYes\nMinority Business Enterprise (MBE) Goal for FA IV Below\n(See “Hardware Master Contract MBE Participation Worksheet”):\n0 %\nPORFP Issue Date:\nmm/dd/yyyy\n05/24/2024\nPROPOSAL DUE\nDATE and TIME:\n06/10/2024\nPlace of Performance:\nMD State Treasurer's Office\n80 Clavert Street\nAnnapolis MD 21401\nSpecial Instructions:\n\nLIMITED TO MASTER CONTRACTORS\nOnly Master Contractors that are awarded a contract under the\nDesktop,\nLaptop\nand\nTablet\n2015\nMaster\nContract,\n060B5400007, are eligible to submit a bid in response to this\ns"
+        }
+      ],
+      "confidence": 0.9,
+      "notes": null
+    },
+    "Model_no": {
+      "value": "Dell Latitude 5550",
+      "sources": [
+        {
+          "file": "Dell_Laptop_Specs.pdf",
+          "page": 1,
+          "chunk_id": "275a4f7003723cc8b10d0588",
+          "quote": "SKU\n210-BLYZ\n379-BFNZ\n619-ARSB\n658-BCSB\n338-CNRG\n338-CNRK\n321-BKTQ\n409-BCXY\n631-BBSQ\n370-BBTL\n400-BRFT\n391-BJHB\n583-BLNH\n555-BKQC\n555-BKLQ\n451-BDGX\n492-BDMN\n346-BKLV\n537-BBDO\n340-DMNY\n340-AGIK\n387-BBPC\n817-BBBB\n658-BFQB\n340-DMMK\n389-FGSN\n319-BBKK\n634-BRWG\n379-BDZB\nSI# CC7802 Dell Latitude 5550\nDescription\nDell Latitude 5550 XCTO Base\nIntel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14\nthreads, up to 4.3 GHz Turbo)\nWindows 11 Pro, English, Brazilian Portuguese PT-BR, French,\nSpanish\nNo Microsoft Office License Included - 30 day Trial Offer Only\nAssembly Base MTL 5550\nIntegrated Intel graphics for Intel Core Ultra 5 125U processor\nLatitude 5550 Bottom Door, MTL U15\nIntel Rapid Storage Technology Driver\nIntel vPro Management Disabled\n16 GB: 2 x 8 GB, DDR5, 5600 MT/s (5200 MT/s with 13th Gen Intel\nCore processors)\n256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD\n15.6\", FHD 1920x1080, 60H"
+        }
+      ],
+      "confidence": 0.9,
+      "notes": null
+    },
+    "Part_no": {
+      "value": "210-BLYZ",
+      "sources": [
+        {
+          "file": "Dell_Laptop_Specs.pdf",
+          "page": 1,
+          "chunk_id": "275a4f7003723cc8b10d0588",
+          "quote": "SKU\n210-BLYZ\n379-BFNZ\n619-ARSB\n658-BCSB\n338-CNRG\n338-CNRK\n321-BKTQ\n409-BCXY\n631-BBSQ\n370-BBTL\n400-BRFT\n391-BJHB\n583-BLNH\n555-BKQC\n555-BKLQ\n451-BDGX\n492-BDMN\n346-BKLV\n537-BBDO\n340-DMNY\n340-AGIK\n387-BBPC\n817-BBBB\n658-BFQB\n340-DMMK\n389-FGSN\n319-BBKK\n634-BRWG\n379-BDZB\nSI# CC7802 Dell Latitude 5550\nDescription\nDell Latitude 5550 XCTO Base\nIntel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14\nthreads, up to 4.3 GHz Turbo)\nWindows 11 Pro, English, Brazilian Portuguese PT-BR, French,\nSpanish\nNo Microsoft Office License Included - 30 day Trial Offer Only\nAssembly Base MTL 5550\nIntegrated Intel graphics for Intel Core Ultra 5 125U processor\nLatitude 5550 Bottom Door, MTL U15\nIntel Rapid Storage Technology Driver\nIntel vPro Management Disabled\n16 GB: 2 x 8 GB, DDR5, 5600 MT/s (5200 MT/s with 13th Gen Intel\nCore processors)\n256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD\n15.6\", FHD 1920x1080, 60H"
+        }
+      ],
+      "confidence": 0.8,
+      "notes": "SKU listed in Dell_Laptop_Specs.pdf"
+    },
+    "Product": {
+      "value": "Dell Laptop",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "chunk_id": "86309f0f0a4c95044859059e",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n1\n\nSection 1 –General Information\n\nPORFP Number:\n\n#E20P4600040\neMMA Project Number: BPM044557\nPORFP Type:\n\nFixed Price\nFunctional Area/s (FA)\nfor this PORFP:\n\nFA I (Printers and Associated Peripherals)\nFA V (Manufacturer’s Extended Warranty)\n\nManufacturer Name\n\nDell\n\nDesignated Small\nBusiness Reserve?(SBR):\n\nYes\nMinority Business Enterprise (MBE) Goal for FA IV Below\n(See “Hardware Master Contract MBE Participation Worksheet”):\n0 %\nPORFP Issue Date:\nmm/dd/yyyy\n05/24/2024\nPROPOSAL DUE\nDATE and TIME:\n06/10/2024\nPlace of Performance:\nMD State Treasurer's Office\n80 Clavert Street\nAnnapolis MD 21401\nSpecial Instructions:\n\nLIMITED TO MASTER CONTRACTORS\nOnly Master Contractors that are awarded a contract under the\nDesktop,\nLaptop\nand\nTablet\n2015\nMaster\nContract,\n060B5400007, are eligible to submit a bid in response to this\ns"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "chunk_id": "bae585da64782fd3c84d0143",
+          "quote": "Table 1\n| | | Questions Due (Closing) Date and Time: 06/01/2024 at 2:00 PM EDT Questions must be submitted in writing to thawkins@treasurer.state.md.us with the subject line, “QUESTION for Dell Laptop #E20P4600040”, and be submitted in writing via e-mail to the Procurement Officer no later than the date and time specified. |\n| --- | --- | --- |\n| Security Requirements (if applicable): | | 1. The Department reserves the right to purchase more or less than the specified quantity to the extent limited by funding. 2. The Master Contractor must provide the estimated ship date/lead time for each item listed in the PORFP FA I 3. Please allow proposals/quotes provided in response to this PORFP to be valid for at least 90 days after the set due date above. 4. The Master Contractor must be an authorized reseller for Dell. The state reserves the right to request a Letter of Authorization (LOA) from"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "chunk_id": "21e8b52f99cf8ad1525c112c",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n2\nQuestions\nDue\n(Closing)\nDate\nand\nTime:\n06/01/2024 at 2:00 PM EDT\nQuestions\nmust\nbe\nsubmitted\nin\nwriting\nto\nthawkins@treasurer.state.md.us\nwith\nthe\nsubject\nline,\n“QUESTION for Dell Laptop #E20P4600040”, and be\nsubmitted in writing via e-mail to the Procurement Officer no later\nthan the date and time specified.\n\nSecurity Requirements (if\napplicable):\n1. The Department reserves the right to purchase more or less\nthan the specified quantity to the extent limited by funding.\n\n2. The Master Contractor must provide the estimated ship\ndate/lead time for each item listed in the PORFP FA I\n\n3. Please allow proposals/quotes provided in response to this\nPORFP to be valid for at least 90 days after the set due date\nabove.\n\n4. The Master Contractor must be an authorized reseller for Dell.\nThe state reserves the right to request a"
+        },
+        {
+          "file": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": null,
+          "chunk_id": "05c3d5afadf370454147f1cd",
+          "quote": "Dell Laptops w/Extended Warranty - Bid Information - {3} | BidNet Direct\n\nLoading...\nOk\nSkip to main content\nGo to homepage\nSolicitations\nSearch\nSearch\nBlank Envelope\nMatching Profiles\nBlank Envelope\nSaved Searches\nBid Management\nBid Management\nDartboard\nQualifications\nContracts\nContract Management\nReports\nDashboard\nDashboard\nRequested Documents\nRequested Documents\nParticipating Organizations\nParticipating Organizations\nParticipating Organizations\nHelp\nHelp\nAvatar\nMy Profile\nMy Organization\nContacts\nPurchasing Groups\nFinance\nServices\nLogout\nMy Profile\nMy Organization\nContacts\nPurchasing Groups\nFinance\nServices\nLogout\n​\nSearch\nSearch\nBlank Envelope\nMatching Profiles\nBlank Envelope\nSaved Searches\nBid Management\nBid Management\nDartboard\nQualifications\nDashboard\nDashboard\nRequested Documents\nRequested Documents\nParticipating Organizations\nParticipating Organizations\nContract Management\nBPM04"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "chunk_id": "86e943c701879697bcabeecd",
+          "quote": "| | Business Reserve?(SBR): | | | | | | |\n| | Minority Business Enterprise (MBE) Goal for FA IV Below | | | | | | 0 % |\n| | (See “Hardware Master Contract MBE Participation Worksheet”): | | | | | | |\n| | PORFP Issue Date: | | 05/24/2024 | | PROPOSAL DUE | | 06/10/2024 |\n| | mm/dd/yyyy | | | | DATE and TIME: | | |\n| Place of Performance: | Place of Performance: | | MD State Treasurer's Office 80 Clavert Street Annapolis MD 21401 | | | | |\n| Special Instructions: | | | LIMITED TO MASTER CONTRACTORS Only Master Contractors that are awarded a contract under the Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007, are eligible to submit a bid in response to this secondary competition Purchase Order Request for Proposal (PORFP). SMALL BUSINESS RESERVE (SBR) PROCUREMENT This is a Small Business Reserve Procurement for which award will be limited to certified small business vendors. Onl"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": null
+    },
+    "contact_info": {
+      "value": "Agency POC: Tamaira Hawkins, Phone: 410-260-7533, Email: thawkins@treasurer.state.md.us; On-site Contact: James Simpson, Phone: 410-260-6063, Email: jsimpson@treasurer.state.md.us",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "chunk_id": "c922012c353ccad57814a222",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n3\n\nAgency POC Name:\nTamaira Hawkins\nAgency POC\nPhone Number:\n410-260-7533\nAgency POC Email\nAddress:\nthawkins@treasurer.state.md\n.us\nAgency POC\nFax:\nN/A\nAgency POC Mailing\nAddress:\nMD State Treasurer’s Office\n80 Calvert Street, Room 109\nAnnapolis, MD 21401\n\nSection 3 – Delivery Address / Work Site POC Information (if different from above)\n\nAgency On-site Contact\nName:\nJames Simpson\nAgency On-site\nPhone Number:\n410-260-6063\nAgency On-site Email\nAddress:\njsimpson@treasurer.state.\nmd.us\nAgency On-site\nFax:\n\nAgency On-site Address:\n80 Calvert Street, Room 109 Annapolis, MD 21401\n\nSection 4 – Scope of Work\n\nFA II - Printers and Associated Peripherals\n(Provide product specifications below. If some or all specifications are unk"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "chunk_id": "bae585da64782fd3c84d0143",
+          "quote": "Table 1\n| | | Questions Due (Closing) Date and Time: 06/01/2024 at 2:00 PM EDT Questions must be submitted in writing to thawkins@treasurer.state.md.us with the subject line, “QUESTION for Dell Laptop #E20P4600040”, and be submitted in writing via e-mail to the Procurement Officer no later than the date and time specified. |\n| --- | --- | --- |\n| Security Requirements (if applicable): | | 1. The Department reserves the right to purchase more or less than the specified quantity to the extent limited by funding. 2. The Master Contractor must provide the estimated ship date/lead time for each item listed in the PORFP FA I 3. Please allow proposals/quotes provided in response to this PORFP to be valid for at least 90 days after the set due date above. 4. The Master Contractor must be an author"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    },
+    "company_name": {
+      "value": "MD State Treasurer's Office",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "chunk_id": "86309f0f0a4c95044859059e",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n1\n\nSection 1 –General Information\n\nPORFP Number:\n\n#E20P4600040\neMMA Project Number: BPM044557\nPORFP Type:\n\nFixed Price\nFunctional Area/s (FA)\nfor this PORFP:\n\nFA I (Printers and Associated Peripherals)\nFA V (Manufacturer’s Extended Warranty)\n\nManufacturer Name\n\nDell\n\nDesignated Small\nBusiness Reserve?(SBR):\n\nYes\nMinority Business Enterprise (MBE) Goal for FA IV Below\n(See “Hardware Master Contract MBE Participation Worksheet”):\n0 %\nPORFP Issue Date:\nmm/dd/yyyy\n05/24/2024\nPROPOSAL DUE\nDATE and TIME:\n06/10/2024\nPlace of Performance:\nMD State Treasurer's Office\n80 Clavert Street\nAnnapolis MD 21401\nSpecial Instructions:\n\nLIMITED TO MASTER CONTRACTORS\nOnly Master Contractors that are awarded a contract under the\nDesktop,\nLap"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "chunk_id": "c922012c353ccad57814a222",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n3\n\nAgency POC Name:\nTamaira Hawkins\nAgency POC\nPhone Number:\n410-260-7533\nAgency POC Email\nAddress:\nthawkins@treasurer.state.md\n.us\nAgency POC\nFax:\nN/A\nAgency POC Mailing\nAddress:\nMD State Treasurer’s Office\n80 Calvert Street, Room 109\nAnnapolis, MD 21401\n\nSection 3 – Delivery Address / Work Site POC Information (if different from above)\n\nAgency On-site Contact\nName:\nJames Simpson\nAgency On-site\nPhone Number:\n410-260-6063\nAgency On-site Email\nAddress:\njsimpson@treasurer.state.\nmd.us\nAgency On-site\nFax:\n\nAgency On-site Address:\n80 Calvert Street, Room 109 Annapolis, MD 21401\n\nSection 4 – Scope of Work\n\nFA II - Printers and Associated Peripherals\n(Provide product specifications below. If some or all specifications are unk"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    },
+    "Bid Summary": {
+      "value": "The MD State Treasurer's Office is soliciting a fixed‑price purchase of Dell laptops with extended warranty under a Hardware Master Contract. The solicitation, identified as PORFP #E20P4600040, covers functional areas for printers and associated peripherals and manufacturer’s extended warranty, with delivery to the Treasurer’s Office in Annapolis, MD. Proposals are due 10 June 2024 and must include lead times and validity for at least 90 days.",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "chunk_id": "86309f0f0a4c95044859059e",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n1\n\nSection 1 –General Information\n\nPORFP Number:\n\n#E20P4600040\neMMA Project Number: BPM044557\nPORFP Type:\n\nFixed Price\nFunctional Area/s (FA)\nfor this PORFP:\n\nFA I (Printers and Associated Peripherals)\nFA V (Manufacturer’s Extended Warranty)\n\nManufacturer Name\n\nDell\n\nDesignated Small\nBusiness Reserve?(SBR):\n\nYes\nMinority Business Enterprise (MBE) Goal for FA IV Below\n(See “Hardware Master Contract MBE Participation Worksheet”):\n0 %\nPORFP Issue Date:\nmm/dd/yyyy\n05/24/2024\nPROPOSAL DUE\nDATE and TIME:\n06/10/2024\nPlace of Performance:\nMD State Treasurer's Office\n80 Clavert Street\nAnnapolis MD 21401\nSpecial Instructions:\n\nLIMITED TO MASTER CONTRACTORS\nOnly Master Contractors that are awarded a contract under the\nDesktop,\nLap"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "chunk_id": "81f24b78e561911b512f0a61",
+          "quote": "| | Section 3 – Delivery Address / Work Site POC Information (if different from above) | | | | | | | | | | | | | | | | | |\n| | Agency On-site Contact | | | James Simpson | | | | | Agency On-site | | | | | | 410-260-6063 | | | |\n| | Name: | | | | | | | | Phone Number: | | | | | | | | | |\n| | Agency On-site Email | | | jsimpson@treasurer.state. md.us | | | | | Agency On-site | | | | | | | | | |\n| | Address: | | | | | | | | Fax: | | | | | | | | | |\n| Agency On-site Address: | Agency On-site Address: | | | 80 Calvert Street, Room 109 Annapolis, MD 21401 | | | | | | | | | | | | | | |\n| | Section 4 – Scope of Work | | | | | | | | | | | | | | | | | |\n| | FA II - Printers and Associated Peripherals | | | | | | | | | | | | | | | | | |\n| | (Provide product specifications below. If some or all specif"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    },
+    "Product Specification": {
+      "value": "Dell Latitude 5550 XCTO Base – Intel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 threads, up to 4.3 GHz Turbo), Windows 11 Pro, 16 GB DDR5 (5600 MT/s), 256 GB M.2 2230 Gen 4 PCIe NVMe SSD, 15.6\" FHD 1920×1080 display, 60 Hz, integrated Intel graphics, Intel Rapid Storage Technology Driver, Intel vPro Management Disabled",
+      "sources": [
+        {
+          "file": "Dell_Laptop_Specs.pdf",
+          "page": 1,
+          "chunk_id": "275a4f7003723cc8b10d0588",
+          "quote": "SKU\n210-BLYZ\n379-BFNZ\n619-ARSB\n658-BCSB\n338-CNRG\n338-CNRK\n321-BKTQ\n409-BCXY\n631-BBSQ\n370-BBTL\n400-BRFT\n391-BJHB\n583-BLNH\n555-BKQC\n555-BKLQ\n451-BDGX\n492-BDMN\n346-BKLV\n537-BBDO\n340-DMNY\n340-AGIK\n387-BBPC\n817-BBBB\n658-BFQB\n340-DMMK\n389-FGSN\n319-BBKK\n634-BRWG\n379-BDZB\nSI# CC7802 Dell Latitude 5550\nDescription\nDell Latitude 5550 XCTO Base\nIntel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14\nthreads, up to 4.3 GHz Turbo)\nWindows 11 Pro, English, Brazilian Portuguese PT-BR, French,\nSpanish\nNo Microsoft Office License Included - 30 day Trial Offer Only\nAssembly Base MTL 5550\nIntegrated Intel graphics for Intel Core Ultra 5 125U processor\nLatitude 5550 Bottom Door, MTL U15\nIntel Rapid Storage Technology Driver\nIntel vPro Management Disabled\n16 GB: 2 x 8 GB, DDR5, 5600 MT/s (5200 MT/s with 13th Gen Intel\nCore processors)\n256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD\n15.6\", FHD 1920x1080, 60H"
+        }
+      ],
+      "confidence": 0.9,
+      "notes": null
+    }
+  },
+  "addendum_change_log": {
+    "changes": [],
+    "review_notes": [
+      "No addendum-labeled passages were retrieved. This does not prove that the bid has no addenda; check retrieval coverage before accepting an empty change log."
+    ],
+    "addenda_found_in_retrieved_evidence": [],
+    "evidence_count": 9,
+    "latency_ms": 17448.71,
+    "scope_note": "This change log reflects retrieved passages and must not be treated as proof that every document and every addendum was exhaustively reconciled."
+  },
+  "validation_summary": {
+    "total_fields": 20,
+    "populated_fields_count": 15,
+    "missing_fields_count": 5,
+    "fields_missing": [
+      "Bid Submission Type",
+      "Pre Bid Meeting",
+      "Installation",
+      "Bid Bond Requirement",
+      "Delivery Date"
+    ],
+    "invalid_fields": [],
+    "fields_with_valid_citations": 15,
+    "citation_coverage": 1.0,
+    "addendum_changes_count": 0,
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "No addendum-labeled passages were retrieved. An empty change log does not prove that the bid has no addenda.",
+      "Reconciliation note: No addendum-labeled passages were retrieved. This does not prove that the bid has no addenda; check retrieval coverage before accepting an empty change log."
+    ],
+    "retry_candidates": []
+  },
+  "agent_runs": {
+    "logistics": {
+      "output_file": "Bid2_logistics.json",
+      "evidence_count": 7,
+      "latency_ms": 15961.79,
+      "model": "openai/gpt-oss-20b"
+    },
+    "commercial_legal": {
+      "output_file": "Bid2_commercial_legal.json",
+      "evidence_count": 9,
+      "latency_ms": 18564.87,
+      "model": "openai/gpt-oss-20b"
+    },
+    "product_specifications": {
+      "output_file": "Bid2_product_specs.json",
+      "evidence_count": 10,
+      "latency_ms": 19131.35,
+      "model": "openai/gpt-oss-20b"
+    },
+    "identity_summary": {
+      "output_file": "Bid2_identity_summary.json",
+      "evidence_count": 5,
+      "latency_ms": 20538.75,
+      "model": "openai/gpt-oss-20b"
+    },
+    "addendum_reconciliation": {
+      "output_file": "Bid2_addendum_changes.json",
+      "evidence_count": 9,
+      "latency_ms": 17448.71,
+      "model": "openai/gpt-oss-20b"
+    }
+  }
+}

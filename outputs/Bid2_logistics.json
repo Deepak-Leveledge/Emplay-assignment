@@ -1,0 +1,46 @@
+{
+  "bid_id": "Bid2",
+  "extraction_group": "dates_logistics",
+  "fields": {
+    "Due Date": {
+      "value": "06/10/2024",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "chunk_id": "86309f0f0a4c95044859059e",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n1\n\nSection 1 –General Information\n\nPORFP Number:\n\n#E20P4600040\neMMA Project Number: BPM044557\nPORFP Type:\n\nFixed Price\nFunctional Area/s (FA)\nfor this PORFP:\n\nFA I (Printers and Associated Peripherals)\nFA V (Manufacturer’s Extended Warranty)\n\nManufacturer Name\n\nDell\n\nDesignated Small\nBusiness Reserve?(SBR):\n\nYes\nMinority Business Enterprise (MBE) Goal for FA IV Below\n(See “Hardware Master Contract MBE Participation Worksheet”):\n0 %\nPORFP Issue Date:\nmm/dd/yyyy\n05/24/2024\nPROPOSAL DUE\nDATE and TIME:\n06/10/2024\nPlace of Performance:\nMD State Treasurer's Office\n80 Clavert Street\nAnnapolis MD 21401\nSpecial Instructions:\n\nLIMITED TO MASTER CONTRACTORS\nOnly Master Contractors that are awarded a contract under the\nDesktop,\nLaptop\nand\nTablet\n2015\nMaster\nContract,\n060B5400007, are eligible to submit a bid in response to this\nsecondary competition Purchase Order Request for Proposal\n(PORFP).\n\nSMALL BUSINESS RESERVE (SBR) PROCUREMENT\nThis is a Small Business Reserve Procurement for which award\nwill be limited to certified small business vendors. Only\nbusinesses that meet the statutory requirements set forth in\nState Financ"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "chunk_id": "86e943c701879697bcabeecd",
+          "quote": "| | Business Reserve?(SBR): | | | | | | |\n| | Minority Business Enterprise (MBE) Goal for FA IV Below | | | | | | 0 % |\n| | (See “Hardware Master Contract MBE Participation Worksheet”): | | | | | | |\n| | PORFP Issue Date: | | 05/24/2024 | | PROPOSAL DUE | | 06/10/2024 |\n| | mm/dd/yyyy | | | | DATE and TIME: | | |\n| Place of Performance: | Place of Performance: | | MD State Treasurer's Office 80 Clavert Street Annapolis MD 21401 | | | | |\n| Special Instructions: | | | LIMITED TO MASTER CONTRACTORS Only Master Contractors that are awarded a contract under the Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007, are eligible to submit a bid in response to this secondary competition Purchase Order Request for Proposal (PORFP). SMALL BUSINESS RESERVE (SBR) PROCUREMENT This is a Small Business Reserve Procurement for which award will be limited to certified small business vendors. Only businesses that meet the statutory requirements set forth in State Finance and Procurement Article, §§14-501—14-505, Annotated Code of Maryland, and that are certified by GOSBA Small Business Reserve Program are eligible for award of a contract. BID SUBMISSION INSTRUCTIONS Purchase Order Request f"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    },
+    "Bid Submission Type": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "No explicit submission method provided in the evidence."
+    },
+    "Pre Bid Meeting": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "No pre‑bid meeting information found in the supplied passages."
+    },
+    "Delivery Date": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "No delivery date or delivery window specified in the evidence."
+    }
+  },
+  "evidence_count": 7,
+  "latency_ms": 15961.79,
+  "model": "openai/gpt-oss-20b"
+}

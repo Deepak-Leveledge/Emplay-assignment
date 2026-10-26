@@ -1,0 +1,84 @@
+{
+  "bid_id": "Bid1",
+  "extraction_group": "product_specifications",
+  "fields": {
+    "MFG for Registration": {
+      "value": "M/WBE Manufacturer",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 47,
+          "chunk_id": "5478e46a07d863e6f589bbf0",
+          "quote": "Last update 8.7.2020 Dallas ISD M/WBE Compliance Guidelines and Forms for Goods and Services #3002 Page | 7\n\nCompany Name:\n\nBid/RFP No.:\n\nCertified M/WBE Subcontractor Performance. The M/WBE subcontractors, suppliers, and/or vendors must be 1st, 2nd or\n3rd tier subcontractors, suppliers, and/or vendors when calculating participation. In order to prevent double counting,\nthe district will count the M/WBE subcontractor participation for the 1st tier firm. If the 1st tier isn’t a certified M/WBE,\nthe district will count the 2nd tier M/WBE subcontractor. If the 1st and 2nd tier aren’t certified M/WBEs, the district will\ncount the 3rd tier M/WBE subcontractor. The expenditures by M/WBEs for materials or supplies toward M/WBE goals\nare calculated as follows:\n\nType\n\nM/WBE\nPercentage\n\nDefinition\n\nA.\n\nM/WBE Manufacturer\n\n100%\nOperates or maintains a factory or establishment that produces\non the p"
+        }
+      ],
+      "confidence": 0.7,
+      "notes": "Defined in M/WBE compliance guidelines as a manufacturer that operates or maintains a factory producing on the premises."
+    },
+    "Model_no": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "No model numbers provided in the retrieved passages."
+    },
+    "Part_no": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "No part numbers provided in the retrieved passages."
+    },
+    "Product": {
+      "value": "Student and Staff Computing Devices",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3,
+          "chunk_id": "a73d97349034b6240465446c",
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices\n\nDallas ISD rev 2.0\nPage 3 of 40\nSCOPE AND SPECIFICATIONS OF THE\nPROPOSAL\nrequirements to procure vendors who provide goods or services purchased by Dallas ISD using federal\ndollars. This proposal may be used with local, state, federal, and grant-funded programs.\nPURPOSE OF REQUEST FOR PROPOSAL (RFP)\nThis Request for Proposal (RFP) will be for student and staff computing devices, including laptops,\ndesktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may\nsubmit proposals for one, several, or all categories of devices required by the District. Within each category\nof device, the District reserves the right to award contracts to a single vendor or multiple vendors.\nThe specifications listed in this RFP are the minimum hardware requirements for each tier of device re"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 34,
+          "chunk_id": "33e5f17db764386aa2c6efec",
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices\n\nDallas ISD rev 2.0\nPage 34 of 40\n2 Price Schedule\n2.1 Line Information\n\nLine\nItem,\nRev\nTarget\nQuantity\nUnit\nUnit Price\nAmount\nBid Minimum\nRelease\nAmount\n1 Tier 1 Small Student\nChromebook Laptop\n(Touch)\n1\nEach\n2 Tier 2 Large Student\nChromebook Laptop\n(Non- Touch)\n1\nEach\n3 Tier 3 Student\nWindows Laptop\n1\nEach\n4 Student Tablet\n1\nEach\n5 Tier 1 Staff Basic\nDesktop\n1\nEach\n6 Tier 2 Staff\nProfessional Desktop\n1\nEach\n7 Tier 1 Staff Laptop\n1\nEach\n8 Tier 2 Staff Laptop\n1\nEach\n9 Display Monitor -\nTouch\n1\nEach\n10 Display Monitor -\nNon-Touch\n1\nEach\n11 Additional Warranty\n- not included in the\ninitial purchase of a\ndevice\n1\nEach\n12 Device Deployment\n- include all associated\ncosts for asset\ndecaling and reporting,\netching, and delivery\n1\nEach\n13\nSubscriptions/Services\nRequired with the\npurchase of any\ndevice\n1\nEach\n14 Discount\nPe"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 35,
+          "chunk_id": "cdb8dbeed2302035c9c43846",
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices\n\nDallas ISD rev 2.0\nPage 35 of 40\nLine\nItem,\nRev\nTarget\nQuantity\nUnit\nUnit Price\nAmount\nBid Minimum\nRelease\nAmount\n15.01 Tier 1 Small\nStudent Chromebook\nLaptop (Touch)\n50,000\nEach\n15.02 Tier 2 Large\nStudent Chromebook\nLaptop (Non- Touch)\n50,000\nEach\n16 STUDENT\nLAPTOPS - FOR\nEVALUATION\nPURPOSES (Pricing\nrequired to be\nconsidered for this\ncategory)\n16.01 Tier 3 Student\nWindows Laptop\n5,000\nEach\n17 STUDENT\nTABLETS - FOR\nEVALUATION\nPURPOSES (Pricing\nrequired to be\nconsidered for this\ncategory)\n17.01 Student Tablet\n50,000\nEach\n18 STAFF LAPTOPS -\nFOR EVALUATION\nPURPOSES (Pricing\nrequired to be\nconsidered for this\ncategory)\n18.01 Tier 1 Staff\nLaptop\n10,000\nEach\n18.02 Tier 2 Staff\nLaptop\n10,000\nEach\n19 STAFF\nDESKTOPS - FOR\nEVALUATION\nPURPOSES (Pricing\nrequired to be\nconsidered for this\ncategory)\n19.01 Tier 1 Staff\nBasic De"
+        }
+      ],
+      "confidence": 0.9,
+      "notes": "Product category described in the RFP title and body."
+    },
+    "Product Specification": {
+      "value": "Student devices: Screen resolution 1920-1080 non-touch; Memory 16GB DDR5; Wireless 802.11AX WiFi-6E and Bluetooth 5.1; Power supply Type C 65W; Battery life minimum 10 hours; Ports minimum 2 USB 3.0, 1 Type C, 65HDMI, 1 headphone/microphone combo; Storage 256GB NVMe SSD; OS Windows 11 Pro; Warranty 3-year minimum. Student tablet: Processor A13; Display 10.2\" Retina; Camera 8MP wide; Screen resolution 2160x1620 multi-touch; Wireless 802.11AC and Bluetooth 4.2; Power supply included; Battery life minimum 10 hours; Ports 1 headphone; Storage 64GB; OS iOS 17; Warranty 1-year minimum. Staff devices: Tier 1 Staff: Chrome OS license required; Warranty 1-year minimum. Tier 3 Student Windows Laptop: Intel i5 13th Gen or equivalent; Display minimum 13\" diagonal; Camera 720p minimum. Display monitors: Touch and Non-Touch: Minimum 24\" diagonal; Resolution 1920x1080; Port USB 3.1 Hub; Aspect ratio 16:9; Contrast 3000:1; Warranty 3-year minimum.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 5,
+          "chunk_id": "ee566b0e8ee6032ba95272be",
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices\n\nDallas ISD rev 2.0\nPage 5 of 40\nSCOPE AND SPECIFICATIONS OF THE\nPROPOSAL\n•\nScreen Resolution 1920-1080 Non-Touch\n•\nMemory: Minimum 16GB RAM DDR5 Memory\n•\nWireless: 802.11AX WiFi-6E and Bluetooth 5.1\n•\nPower Supply: Type C, 65W\n•\nBattery Life: Minimum 10 Hours\n•\nPorts, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo\n•\nStorage: 256 GB NVMe SSD\n•\nWindows 11 Pro\n•\nWarranty: 3-year minimum\nStudent Tablet Minimum Requirements\n•\nEnterprise Management Ready\n•\nProcessor A13\n•\nDisplay: 10.2\" Retina\n•\nIntegrated Camera: 8MP Wide camera\n•\nScreen Resolutions 2160 x 1620 Multi-touch\n•\nWireless: 802.11AC and Bluetooth 4.2\n•\nPower Supply included\n•\nBattery Life: Minimum 10 Hours\n•\nPorts: 1 headphone or other personal audio connection\n•\nStorage: 64 GB\n•\niOS 17\n•\nWarranty: 1-year minimum\nStaff Devices\nTier 1 Staff"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 4,
+          "chunk_id": "2ad445d4e3a03544d4d3cdbb",
+          "quote": "•\nChrome O/S License Required\n•\nWarranty: 1-year minimum\nTier 3 Student Windows Laptop Minimum Requirements\n•\nEnterprise Management Ready w/ Autopilot Enrollment\n•\nIntel i5 13th Gen or equivalent\n•\nDisplay: Minimum 13\" diagonal\n•\nIntegrated Camera: 720p minimum\n\n[EXTRACTED TABLES]\nTable 1\n| SCOPE AND SPECIFICATIONS OF THE PROPOSAL |\n| --- |\n| All warranties shall become effective on the date the equipment is placed into service, as agreed-upon by Dallas ISD and the awarded vendor. Warranties shall be equal to or exceed those offered to the general public. Dallas ISD expects that all warranty service and repairs or replacements will be performed by the awarded vendors at no cost within five (5) business days of the District reporting the issue to the vendor. Extension of warranty period and/or other adjustments will be expected when constant maintenance is required, or if replacement part"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 6,
+          "chunk_id": "9802240822e6ae13571b2981",
+          "quote": "r Supply: USB C, 65W • Battery Life: Minimum 10 hours • Ports: Minimum 2 USB 3.0; 1 HDMI; 1 headphone/microphone combo • Storage: 1 TB NVMe SSD • 0/S: Windows 11 or Mac OS • Warranty: 3-year minimum Display Monitor - Touch • Minimum 24\" diagonal screen • Resolution: 1920 X 1080 • Port: USB 3.1 Hub • Aspect Ratio: 16:9 • Contrast: 3000:1 • Warranty: 3-year minimum Display Monitor - Non-Touch • Minimum 24\" diagonal screen • Resolution: 1920 X 1080 • Port: USB 3.1 Hub • Warranty: 3-year minimum |\n| PROPOSAL SPECIFIC QUESTIONS |"
+        }
+      ],
+      "confidence": 0.9,
+      "notes": "Minimum hardware specifications for student, staff, and display devices as listed in the RFP."
+    }
+  },
+  "evidence_count": 15,
+  "latency_ms": 20399.3,
+  "model": "openai/gpt-oss-20b"
+}

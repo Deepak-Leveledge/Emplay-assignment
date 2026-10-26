@@ -1,0 +1,98 @@
+{
+  "bid_id": "Bid2",
+  "extraction_group": "identity_summary",
+  "fields": {
+    "Bid Number": {
+      "value": "#E20P4600040",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "chunk_id": "86309f0f0a4c95044859059e",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n1\n\nSection 1 –General Information\n\nPORFP Number:\n\n#E20P4600040\neMMA Project Number: BPM044557\nPORFP Type:\n\nFixed Price\nFunctional Area/s (FA)\nfor this PORFP:\n\nFA I (Printers and Associated Peripherals)\nFA V (Manufacturer’s Extended Warranty)\n\nManufacturer Name\n\nDell\n\nDesignated Small\nBusiness Reserve?(SBR):\n\nYes\nMinority Business Enterprise (MBE) Goal for FA IV Below\n(See “Hardware Master Contract MBE Participation Worksheet”):\n0 %\nPORFP Issue Date:\nmm/dd/yyyy\n05/24/2024\nPROPOSAL DUE\nDATE and TIME:\n06/10/2024\nPlace of Performance:\nMD State Treasurer's Office\n80 Clavert Street\nAnnapolis MD 21401\nSpecial Instructions:\n\nLIMITED TO MASTER CONTRACTORS\nOnly Master Contractors that are awarded a contract under the\nDesktop,\nLap"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    },
+    "Title": {
+      "value": "Dell Laptops w/Extended Warranty",
+      "sources": [
+        {
+          "file": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": null,
+          "chunk_id": "05c3d5afadf370454147f1cd",
+          "quote": "Dell Laptops w/Extended Warranty - Bid Information - {3} | BidNet Direct\n\nLoading...\nOk\nSkip to main content\nGo to homepage\nSolicitations\nSearch\nSearch\nBlank Envelope\nMatching Profiles\nBlank Envelope\nSaved Searches\nBid Management\nBid Management\nDartboard\nQualifications\nContracts\nContract Management\nReports\nDashboard\nDashboard\nRequested Documents\nRequested Documents\nParticipating Organizations\nParticipating Organizations\nParticipating Organizations\nHelp\nHelp\nAvatar\nMy Profile\nMy Organization\nContacts\nPurchasing Groups\nFinance\nServices\nLogout\nMy Profile\nMy Organization\nContacts\nPurchasing Groups\nFinance\nServices\nLogout\n​\nSearch\nSearch\nBlank Envelope\nMatching Profiles\nBlank Envelope\nSaved Searches\nBid Management\nBid Management\nDartboard\nQualifications\nDashboard\nDashboard\nRequested Documents\nR"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    },
+    "Installation": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Installation requirements not found in the retrieved passages."
+    },
+    "contact_info": {
+      "value": "Agency POC: Tamaira Hawkins, Phone: 410-260-7533, Email: thawkins@treasurer.state.md.us; On-site Contact: James Simpson, Phone: 410-260-6063, Email: jsimpson@treasurer.state.md.us",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "chunk_id": "c922012c353ccad57814a222",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n3\n\nAgency POC Name:\nTamaira Hawkins\nAgency POC\nPhone Number:\n410-260-7533\nAgency POC Email\nAddress:\nthawkins@treasurer.state.md\n.us\nAgency POC\nFax:\nN/A\nAgency POC Mailing\nAddress:\nMD State Treasurer’s Office\n80 Calvert Street, Room 109\nAnnapolis, MD 21401\n\nSection 3 – Delivery Address / Work Site POC Information (if different from above)\n\nAgency On-site Contact\nName:\nJames Simpson\nAgency On-site\nPhone Number:\n410-260-6063\nAgency On-site Email\nAddress:\njsimpson@treasurer.state.\nmd.us\nAgency On-site\nFax:\n\nAgency On-site Address:\n80 Calvert Street, Room 109 Annapolis, MD 21401\n\nSection 4 – Scope of Work\n\nFA II - Printers and Associated Peripherals\n(Provide product specifications below. If some or all specifications are unk"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "chunk_id": "bae585da64782fd3c84d0143",
+          "quote": "Table 1\n| | | Questions Due (Closing) Date and Time: 06/01/2024 at 2:00 PM EDT Questions must be submitted in writing to thawkins@treasurer.state.md.us with the subject line, “QUESTION for Dell Laptop #E20P4600040”, and be submitted in writing via e-mail to the Procurement Officer no later than the date and time specified. |\n| --- | --- | --- |\n| Security Requirements (if applicable): | | 1. The Department reserves the right to purchase more or less than the specified quantity to the extent limited by funding. 2. The Master Contractor must provide the estimated ship date/lead time for each item listed in the PORFP FA I 3. Please allow proposals/quotes provided in response to this PORFP to be valid for at least 90 days after the set due date above. 4. The Master Contractor must be an author"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    },
+    "company_name": {
+      "value": "MD State Treasurer's Office",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "chunk_id": "86309f0f0a4c95044859059e",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n1\n\nSection 1 –General Information\n\nPORFP Number:\n\n#E20P4600040\neMMA Project Number: BPM044557\nPORFP Type:\n\nFixed Price\nFunctional Area/s (FA)\nfor this PORFP:\n\nFA I (Printers and Associated Peripherals)\nFA V (Manufacturer’s Extended Warranty)\n\nManufacturer Name\n\nDell\n\nDesignated Small\nBusiness Reserve?(SBR):\n\nYes\nMinority Business Enterprise (MBE) Goal for FA IV Below\n(See “Hardware Master Contract MBE Participation Worksheet”):\n0 %\nPORFP Issue Date:\nmm/dd/yyyy\n05/24/2024\nPROPOSAL DUE\nDATE and TIME:\n06/10/2024\nPlace of Performance:\nMD State Treasurer's Office\n80 Clavert Street\nAnnapolis MD 21401\nSpecial Instructions:\n\nLIMITED TO MASTER CONTRACTORS\nOnly Master Contractors that are awarded a contract under the\nDesktop,\nLap"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "chunk_id": "c922012c353ccad57814a222",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n3\n\nAgency POC Name:\nTamaira Hawkins\nAgency POC\nPhone Number:\n410-260-7533\nAgency POC Email\nAddress:\nthawkins@treasurer.state.md\n.us\nAgency POC\nFax:\nN/A\nAgency POC Mailing\nAddress:\nMD State Treasurer’s Office\n80 Calvert Street, Room 109\nAnnapolis, MD 21401\n\nSection 3 – Delivery Address / Work Site POC Information (if different from above)\n\nAgency On-site Contact\nName:\nJames Simpson\nAgency On-site\nPhone Number:\n410-260-6063\nAgency On-site Email\nAddress:\njsimpson@treasurer.state.\nmd.us\nAgency On-site\nFax:\n\nAgency On-site Address:\n80 Calvert Street, Room 109 Annapolis, MD 21401\n\nSection 4 – Scope of Work\n\nFA II - Printers and Associated Peripherals\n(Provide product specifications below. If some or all specifications are unk"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    },
+    "Bid Summary": {
+      "value": "The MD State Treasurer's Office is soliciting a fixed‑price purchase of Dell laptops with extended warranty under a Hardware Master Contract. The solicitation, identified as PORFP #E20P4600040, covers functional areas for printers and associated peripherals and manufacturer’s extended warranty, with delivery to the Treasurer’s Office in Annapolis, MD. Proposals are due 10 June 2024 and must include lead times and validity for at least 90 days.",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "chunk_id": "86309f0f0a4c95044859059e",
+          "quote": "Purchase Order Request for Proposals (PORFP)\nHardware Master Contract\n\n1\n\nSection 1 –General Information\n\nPORFP Number:\n\n#E20P4600040\neMMA Project Number: BPM044557\nPORFP Type:\n\nFixed Price\nFunctional Area/s (FA)\nfor this PORFP:\n\nFA I (Printers and Associated Peripherals)\nFA V (Manufacturer’s Extended Warranty)\n\nManufacturer Name\n\nDell\n\nDesignated Small\nBusiness Reserve?(SBR):\n\nYes\nMinority Business Enterprise (MBE) Goal for FA IV Below\n(See “Hardware Master Contract MBE Participation Worksheet”):\n0 %\nPORFP Issue Date:\nmm/dd/yyyy\n05/24/2024\nPROPOSAL DUE\nDATE and TIME:\n06/10/2024\nPlace of Performance:\nMD State Treasurer's Office\n80 Clavert Street\nAnnapolis MD 21401\nSpecial Instructions:\n\nLIMITED TO MASTER CONTRACTORS\nOnly Master Contractors that are awarded a contract under the\nDesktop,\nLap"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "chunk_id": "81f24b78e561911b512f0a61",
+          "quote": "| | Section 3 – Delivery Address / Work Site POC Information (if different from above) | | | | | | | | | | | | | | | | | |\n| | Agency On-site Contact | | | James Simpson | | | | | Agency On-site | | | | | | 410-260-6063 | | | |\n| | Name: | | | | | | | | Phone Number: | | | | | | | | | |\n| | Agency On-site Email | | | jsimpson@treasurer.state. md.us | | | | | Agency On-site | | | | | | | | | |\n| | Address: | | | | | | | | Fax: | | | | | | | | | |\n| Agency On-site Address: | Agency On-site Address: | | | 80 Calvert Street, Room 109 Annapolis, MD 21401 | | | | | | | | | | | | | | |\n| | Section 4 – Scope of Work | | | | | | | | | | | | | | | | | |\n| | FA II - Printers and Associated Peripherals | | | | | | | | | | | | | | | | | |\n| | (Provide product specifications below. If some or all specif"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    }
+  },
+  "evidence_count": 5,
+  "latency_ms": 20538.75,
+  "model": "openai/gpt-oss-20b"
+}

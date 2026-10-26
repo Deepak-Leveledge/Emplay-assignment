@@ -1,0 +1,106 @@
+{
+  "bid_id": "Bid1",
+  "agent": "addendum_reconciliation",
+  "addenda_found_in_retrieved_evidence": [
+    "Addendum 1",
+    "Addendum 2"
+  ],
+  "changes": [
+    {
+      "field_name": "USB port specification",
+      "original_value": "Minimum 2 USB 3.0; 1 HDMI; 1 headphone/microphone combo",
+      "revised_value": "USB 3.1 is a minimum requirement",
+      "change_type": "modified",
+      "change_summary": "USB port specification upgraded from USB 3.0 to USB 3.1.",
+      "confidence": 1.0,
+      "source_ids": [
+        "S7",
+        "S6"
+      ],
+      "sources": [
+        {
+          "source_id": "S7",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page_number": 6.0,
+          "doc_type": "rfp",
+          "addendum_number": null,
+          "quote": "r Supply: USB C, 65W • Battery Life: Minimum 10 hours • Ports: Minimum 2 USB 3.0; 1 HDMI; 1 headphone/microphone combo • Storage: 1 TB NVMe SSD • 0/S: Windows 11 or Mac OS • Warranty: 3-year minimum Display Monitor - Touch • Minimum 24\" diagonal screen • Resolution: 1920 X 1080 • Port: USB 3.1 Hub • Aspect Ratio: 16:9 • Contrast: 3000:1 • Warranty: 3-year minimum Display Monitor - Non-Touch • Minimum 24\" diagonal screen • Resolution: 1920 X 1080 • Port: USB 3.1 Hub • Warranty: 3-year minimum |\n| PROPOSAL SPECIFIC QUESTIONS |"
+        },
+        {
+          "source_id": "S6",
+          "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page_number": 1.0,
+          "doc_type": "addendum",
+          "addendum_number": 1.0,
+          "quote": "Page 1 | 5\nADDENDUM No. 1\nRFP JA-207652 Student and Staff Computing Devices\n\nThe Purpose of this Addendum is to provide responses to the vendors’ questions related to this RFP.\n\n1. The Display monitor – non-Touch you are asking for 3.1 USB port. Are you ok with 3.0 or do you\nneed 3.1?\nAnswer:\nUSB 3.1 is a minimum requirement.\n2. Are you ok with 3.2 USB port on the display?\nAnswer:\nA higher specification is permissible.\n3. When are you going to award this?\nAnswer:\nThis RFP is anticipated to be awarded at the August board meeting.\n4. When do you need these delivered by?\nAnswer:\nDallas ISD is anticipating requesting quotes for different projects from awarded\nvendors starting in September of 2024.\n5. What types of funds are you going to use?\nAn"
+        }
+      ]
+    },
+    {
+      "field_name": "Accidental Damage Protection requirement",
+      "original_value": null,
+      "revised_value": "Not required; no accidental damage protection",
+      "change_type": "modified",
+      "change_summary": "Accidental Damage Protection requirement removed for purchased devices.",
+      "confidence": 0.9,
+      "source_ids": [
+        "S7",
+        "S6"
+      ],
+      "sources": [
+        {
+          "source_id": "S7",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page_number": 6.0,
+          "doc_type": "rfp",
+          "addendum_number": null,
+          "quote": "r Supply: USB C, 65W • Battery Life: Minimum 10 hours • Ports: Minimum 2 USB 3.0; 1 HDMI; 1 headphone/microphone combo • Storage: 1 TB NVMe SSD • 0/S: Windows 11 or Mac OS • Warranty: 3-year minimum Display Monitor - Touch • Minimum 24\" diagonal screen • Resolution: 1920 X 1080 • Port: USB 3.1 Hub • Aspect Ratio: 16:9 • Contrast: 3000:1 • Warranty: 3-year minimum Display Monitor - Non-Touch • Minimum 24\" diagonal screen • Resolution: 1920 X 1080 • Port: USB 3.1 Hub • Warranty: 3-year minimum |\n| PROPOSAL SPECIFIC QUESTIONS |"
+        },
+        {
+          "source_id": "S6",
+          "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page_number": 1.0,
+          "doc_type": "addendum",
+          "addendum_number": 1.0,
+          "quote": "Page 1 | 5\nADDENDUM No. 1\nRFP JA-207652 Student and Staff Computing Devices\n\nThe Purpose of this Addendum is to provide responses to the vendors’ questions related to this RFP.\n\n1. The Display monitor – non-Touch you are asking for 3.1 USB port. Are you ok with 3.0 or do you\nneed 3.1?\nAnswer:\nUSB 3.1 is a minimum requirement.\n2. Are you ok with 3.2 USB port on the display?\nAnswer:\nA higher specification is permissible.\n3. When are you going to award this?\nAnswer:\nThis RFP is anticipated to be awarded at the August board meeting.\n4. When do you need these delivered by?\nAnswer:\nDallas ISD is anticipating requesting quotes for different projects from awarded\nvendors starting in September of 2024.\n5. What types of funds are you going to use?\nAn"
+        }
+      ]
+    },
+    {
+      "field_name": "Solicitation Due Date",
+      "original_value": "27-JUN-2024 14:00:00",
+      "revised_value": "09-JUL-2024 14:00:00 CST",
+      "change_type": "modified",
+      "change_summary": "Due date extended to July 9, 2024 2:00 PM CST.",
+      "confidence": 1.0,
+      "source_ids": [
+        "S5",
+        "S3"
+      ],
+      "sources": [
+        {
+          "source_id": "S5",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page_number": 2.0,
+          "doc_type": "rfp",
+          "addendum_number": null,
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices\n\nDallas ISD rev 2.0\nPage 2 of 40\nBuyer\nALZATE, JASMINE\nEmail\nJALZATE@dallasisd.org\n1 Header Information\n1.1 General Information\nFirst Advertisement Date/Issue Date\n26-MAY-2024 08:00:00\nSecond Advertisement Date\n02-JUN-2024 08:00:00\nPre-Proposal Meeting\n10-JUN-2024 14:00:00\nQuestions Deadline\n11-JUN-2024 16:00:00\nQuestions Response from the District\n13-JUN-2024 18:00:00\nSolicitation Due\n27-JUN-2024 14:00:00\nAnticipated Evaluation & Sel\n11-JUL-2024 14:00:00\nAnticipated Approval/Award\n22-AUG-2024 18:00:00\nPre-Proposal\nA pre-proposal meeting will be held at 2:00 PM CST via TEAMS video conference on June 10,\n2024. Please submit (in writing) any questions regarding this RFP"
+        },
+        {
+          "source_id": "S3",
+          "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page_number": 1.0,
+          "doc_type": "addendum",
+          "addendum_number": 2.0,
+          "quote": "Page 1 | 1\nADDENDUM No. 2\nRFP JA-207652 Student and Staff Computing Devices\n\nThe Purpose of this Addendum is to extend the due date of this RFP.\n\nThe new due date for this RFP will be July 9, 2024 at 2:00 PM CST.\n\nThe information in this Addendum is hereby incorporated and made part of any contract awarded\npursuant to this solicitation.\n\nPlease sign this addendum and submit along with your copies of the proposal. ALL OTHER PROVISIONS\nAND OTHER TERMS AND CONDITIONS REMAIN UNCHANGED. BIDDERS ARE REQUIRED TO\nACKNOWLEDGE AND RETURN/SUBMIT A COPY OF THIS ADDENDUM WITH THEIR PROPOSAL.\n\nCompany Name:\n\nSubmitter’s Name/Title:\n\nAddress:\n\nCity, State and Zip Code:\n\nEmail Address:\n\nSubmitter’s Signature:\n\nTelephone No.\n\nFax No.\n\n800 # (if available)\n\n"
+        }
+      ]
+    }
+  ],
+  "review_notes": [
+    "This change log is based on retrieved passages, not an exhaustive page-by-page legal review of every source document."
+  ],
+  "evidence_count": 11,
+  "latency_ms": 21653.5,
+  "model": "openai/gpt-oss-20b"
+}

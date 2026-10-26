@@ -1,0 +1,104 @@
+{
+  "bid_id": "Bid1",
+  "extraction_group": "commercial_legal",
+  "fields": {
+    "Bid Bond Requirement": {
+      "value": "Insurance and/or bond requirements enumerated elsewhere in contract documents; submission of certificate of insurance/bond required.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 17,
+          "chunk_id": "3b30160a1ad4a7ee87f04ee7",
+          "quote": "Table 1\n| PROPOSAL REQUIREMENT - The following attributes require a response |\n| --- |\n| Type …………………………………………………………………………………………………………………………….. Circle one from the response values below: Yes - I agree No - I Do not agree . The District shall consider a NO response a basis for non-award and/or cancellation and/or termination of any award |\n| INSURANCE AND/OR BONDS Insurance and/or bond requirements are enumerated elsewhere in Contract documents. Submission of a certificate of insurance/bond by the undersigned (or an agent/broker on behalf of the undersigned) represents that the coverages and perils covered by the insurance/bond meet or exceed the requirements of the solicitation document and/or subsequent contract. The District may reasonably rely on the submitted certificate of insurance/bond. The certificate of insurance/bond must accurately reflect the policy coverages and will become "
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 17,
+          "chunk_id": "8000d10376d88f1f199e31a6",
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices\n\nDallas ISD rev 2.0\nPage 17 of 40\nPROPOSAL REQUIREMENT - The following\nattributes require a response\nType\n……………………………………………………………………………………………………………………………..\nCircle one from the response values below:\nYes - I agree\nNo - I Do not agree . The District shall consider a NO response a basis for non-award and/or cancellation\nand/or termination of any award\nINSURANCE AND/OR BONDS\nInsurance and/or bond requirements are enumerated elsewhere in Contract documents. Submission of a\ncertificate of insurance/bond by the undersigned (or an agent/broker on behalf of the undersigned)\nrepresents that the coverages and perils covered by the insurance/bond meet or exceed the requirements of\nthe solicitation document and/or subsequent contract. The District may reasonably rely on the submitted\ncertificate of insurance/bond. The certifica"
+        }
+      ],
+      "confidence": 0.8,
+      "notes": "Bid bond requirement referenced but specific details not provided in evidence."
+    },
+    "Term of Bid": {
+      "value": "Bid submission deadline: 27 June 2024 14:00:00.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "chunk_id": "80ffdda1f7850c7b794a17ef",
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices\n\nDallas ISD rev 2.0\nPage 2 of 40\nBuyer\nALZATE, JASMINE\nEmail\nJALZATE@dallasisd.org\n1 Header Information\n1.1 General Information\nFirst Advertisement Date/Issue Date\n26-MAY-2024 08:00:00\nSecond Advertisement Date\n02-JUN-2024 08:00:00\nPre-Proposal Meeting\n10-JUN-2024 14:00:00\nQuestions Deadline\n11-JUN-2024 16:00:00\nQuestions Response from the District\n13-JUN-2024 18:00:00\nSolicitation Due\n27-JUN-2024 14:00:00\nAnticipated Evaluation & Sel\n11-JUL-2024 14:00:00\nAnticipated Approval/Award\n22-AUG-2024 18:00:00\nPre-Proposal\nA pre-proposal meeting will be held at 2:00 PM CST via TEAMS video conference on June 10,\n2024. Please submit (in writing) any questions regarding this RFP. Only written questions will be\nconsidered. It is highly encouraged that all potential proposers participate and attend the preproposal.\nJoin TEAMS M"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 20,
+          "chunk_id": "fbf9795c52d2f2e948df8f22",
+          "quote": "| PRICING INFORMATION |\n| PRICE OFFER SUMMARY The undersigned duly authorized representative of the Offeror offers to provide the goods and/or services described in this solicitation document according to the terms contained in the Offer. Offerors are required to fully disclose any ''hidden'' or \"additional\" fees, costs, and expenses that are not reflected. The District will not be liable for hidden or additional fees, costs, and expenses that are not disclosed in detail. Any proposed change in the Offeror's pricing structure and/or pricing assumptions must be formally requested on the District Deviation Attribute, which must be accepted in writing by the Buyer and thereafter approved by Dallas ISD's Office of Legal Services. In addition, if the Offeror is proposing no-cost best-value incentives or value-adds, those items should also be disclosed in detail. The ultimate contract is antic"
+        }
+      ],
+      "confidence": 0.9,
+      "notes": "Term of bid defined by solicitation due date; no explicit bid validity period provided."
+    },
+    "Payment Terms": {
+      "value": "Prime vendor must submit M/WBE Pay Activity Report (PAR) indicating amounts paid to subcontractors with each pay application or as requested.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 51,
+          "chunk_id": "86ad08840c0828e4883a338a",
+          "quote": "Last update 8.7.2020 Dallas ISD M/WBE Compliance Guidelines and Forms for Goods and Services #3002 Page | 11\n\nChanges to the List of Subcontractors. A Request for Approval of Contract Change form must be submitted to the M/WBE\nDepartment for approval prior to any changes to the M/WBE subcontractor utilization listing in Section 9 on Page 5. A\nwritten justification and supporting documentation are required from the prime requesting the change. This applies\nafter the Bid/RFP submission and throughout the contract duration.\n\nSubcontractor Payment. The Prime vendor shall submit an M/WBE Pay Activity Report (PAR) indicating the amounts paid\n(along with required proof of payments) to its subcontractors with each pay application or as requested by the district.\n\n•\nAcceptable proof of payments includes: (1) Emails from the Subcontractor verifying the payment amount, date\npaid, school name and/or"
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "Payment terms include M/WBE Pay Activity Report requirement; other payment details not provided."
+    },
+    "Any Additional Documentation Required": {
+      "value": "MWBE Forms, W9 Form, Punch Out Process (optional), Prime-Subcontractor Teaming Agreement, Joint Venture Agreement",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 33,
+          "chunk_id": "bfc1ab2e8013e5c889d53ffc",
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices\n\nDallas ISD rev 2.0\nPage 33 of 40\nSIGNATURE AND DECLARATION OF\nCOMPLIANCE\nType\n……………………………………………………………………………………………………………………………..\nProvide your answer below\n1.4 Attachments\nName\nData Type\nDescription\nMWBE Forms\nFile\nMWBE Forms must be completed and attached\nregardless if you are MWBE status\nW9 Form\nFile\nW9 Form completed, signed and attached to the\nsubmission\nPunch Out Process -\nOPTIONAL\nFile\nPunch Out Process - OPTIONAL\n\n[EXTRACTED TABLES]\nTable 1\n| SIGNATURE AND DECLARATION OF COMPLIANCE |\n| --- |\n| Type …………………………………………………………………………………………………………………………….. Provide your answer below |\n\nTable 2\n| Name | Data Type | Description |\n| --- | --- | --- |\n| MWBE Forms | File | MWBE Forms must be completed and attached regardless if you are MWBE status |\n| W9 Form | File | W9 Form completed, signed and attached to the submissio"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 43,
+          "chunk_id": "1f915faeade81b0a206b6b9a",
+          "quote": "Last update 8.7.2020 Dallas ISD M/WBE Compliance Guidelines and Forms for Goods and Services #3002 Page | 3\n\nCompany Name:\n\nBid/RFP No.:\n\nSection 5. | Prime-Subcontractor Team\n\nIs your company bidding as a Prime-Subcontractor Team with a certified M/WBE company?\nRefer to Section 16 on Page 11 for additional information.\n\nYes. If “Yes,” identify the certified M/WBE company below. Attach a signed, dated and notarized Prime-Subcontractor Teaming Agreement.\n\nNo.\n\nM/WBE Company\nM/WBE Certification Agency\n\nM/WBE Certification Number\n\nEthnicity/Gender\n\nSection 6. | Joint Venture (JV)\n\nIs your company bidding as a Joint Venture (JV) with a certified M/WBE company?\nRefer to Section 17 on Page 12 for additional information.\n\nYes. If “Yes,” identify all partners (including your company*) below and attach a signed, dated, and notarized Dallas ISD Master JV\nAgreement. Each JV partner (excluding your "
+        }
+      ],
+      "confidence": 0.9,
+      "notes": "Documents required as attachments per proposal."
+    },
+    "Contract or Cooperative to use": {
+      "value": "Central Texas Purchasing Alliance (CTPA) Interlocal Agreement - Cooperative",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 20,
+          "chunk_id": "83b29caf8fd9cd0d43d80c57",
+          "quote": ") agree that all terms, conditions, specifications, and pricing would apply? Does the Vendor agree? ----------------------------------------------------------------------------------------------------------------------------------------------- Type …………………………………………………………………………………………………………………………….. Circle one from the response values below: Yes No |\n| CENTRAL TEXAS PURCHASING ALLIANCE (CTPA) Interlocal Agreement - Cooperative Dallas ISD is a member of the Central Texas Purchasing Alliance (CTPA), an alliance of school districts in the central Texas area that share information, services, and contractual opportunities. In support of this collaborative effort, a response of YES to CTPA indicates that the Respondent is interested in extending services to other CTPA member districts. However, there is no obligation on either party to participate unless both parties agree. Services would be pro"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 20,
+          "chunk_id": "3ae6dee44f8301cf806d62c5",
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices\n\nDallas ISD rev 2.0\nPage 20 of 40\nPROPOSAL REQUIREMENT - The following\nattributes require a response\nindicated an interest in being included in this contract. Should these governmental entities decide to\nparticipate in this contract, would you, (the vendor) agree that all terms, conditions, specifications, and\npricing would apply?\nDoes the Vendor agree?\n-----------------------------------------------------------------------------------------------------------------------------------------------\nType\n……………………………………………………………………………………………………………………………..\nCircle one from the response values below:\nYes\nNo\nCENTRAL TEXAS PURCHASING ALLIANCE (CTPA)\nInterlocal Agreement - Cooperative\nDallas ISD is a member of the Central Texas Purchasing Alliance (CTPA), an alliance of school districts in\nthe central Texas area that share info"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 19,
+          "chunk_id": "d12245c2d08889d8d3296127",
+          "quote": "Table 1\n| PROPOSAL REQUIREMENT - The following attributes require a response |\n| --- |\n| Type …………………………………………………………………………………………………………………………….. Circle one from the response values below: Yes - I agree No - I Do not agree . The District shall consider a NO response a basis for non-award and/or cancellation and/or termination of any award |\n| PROHIBITION OF CONTRACTS ENGAGED IN BUSINESS WITH IRAN, SUDAN, OR FOREIGN TERRORIST ORGANIZATIONS The Offeror certifies that it is not a company identified by the Texas Comptroller as a company known to have contracts with or provide supplies or services to a foreign terrorist organization. Does the Vendor agree? ----------------------------------------------------------------------------------------------------------------------------------------------- Type …………………………………………………………………………………………………………………………….. Circle one from the response values below: "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Vendor must indicate interest in CTPA cooperative."
+    }
+  },
+  "evidence_count": 15,
+  "latency_ms": 20144.92,
+  "model": "openai/gpt-oss-20b"
+}

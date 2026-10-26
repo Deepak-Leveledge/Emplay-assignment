@@ -1,0 +1,40 @@
+{
+  "checked_at_utc": "2026-10-25T20:55:49.872134+00:00",
+  "checks": [
+    {
+      "bid_id": "Bid1",
+      "file": "C:\\Users\\deepa\\OneDrive\\Desktop\\Emplay-assignment\\outputs\\Bid1_final.json",
+      "passed": true,
+      "total_required_fields": 20,
+      "actual_field_count": 20,
+      "populated_fields": 17,
+      "null_fields": 3,
+      "citation_count": 31,
+      "citations_with_valid_metadata": 31,
+      "addendum_change_count": 3,
+      "embedded_validation_passed": true,
+      "errors": [],
+      "warnings": [
+        "3 fields are null. Review whether each is genuinely unsupported by the source documents."
+      ]
+    },
+    {
+      "bid_id": "Bid2",
+      "file": "C:\\Users\\deepa\\OneDrive\\Desktop\\Emplay-assignment\\outputs\\Bid2_final.json",
+      "passed": true,
+      "total_required_fields": 20,
+      "actual_field_count": 20,
+      "populated_fields": 15,
+      "null_fields": 5,
+      "citation_count": 27,
+      "citations_with_valid_metadata": 27,
+      "addendum_change_count": 0,
+      "embedded_validation_passed": true,
+      "errors": [],
+      "warnings": [
+        "5 fields are null. Review whether each is genuinely unsupported by the source documents."
+      ]
+    }
+  ],
+  "overall_passed": true
+}

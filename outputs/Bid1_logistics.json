@@ -1,0 +1,60 @@
+{
+  "bid_id": "Bid1",
+  "extraction_group": "dates_logistics",
+  "fields": {
+    "Due Date": {
+      "value": "July 9, 2024 2:00 PM CST",
+      "sources": [
+        {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "chunk_id": "2f24b832a3a1f820bdb76fea",
+          "quote": "Page 1 | 1\nADDENDUM No. 2\nRFP JA-207652 Student and Staff Computing Devices\n\nThe Purpose of this Addendum is to extend the due date of this RFP.\n\nThe new due date for this RFP will be July 9, 2024 at 2:00 PM CST.\n\nThe information in this Addendum is hereby incorporated and made part of any contract awarded\npursuant to this solicitation.\n\nPlease sign this addendum and submit along with your copies of the proposal. ALL OTHER PROVISIONS\nAND OTHER TERMS AND CONDITIONS REMAIN UNCHANGED. BIDDERS ARE REQUIRED TO\nACKNOWLEDGE AND RETURN/SUBMIT A COPY OF THIS ADDENDUM WITH THEIR PROPOSAL.\n\nCompany Name:\n\nSubmitter’s Name/Title:\n\nAddress:\n\nCity, State and Zip Code:\n\nEmail Address:\n\nSubmitter’s Signature:\n\nTelephone No.\n\nFax No.\n\n800 # (if available)\n\nDate:\n\nEND OF ADDENDUM"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": "Updated due date via Addendum No. 2"
+    },
+    "Bid Submission Type": {
+      "value": "Submit electronically via iSupplier portal; manual paper submissions accepted by sealed envelope to Procurement Services Department, 9400 N Central Expwy, Ste 1510, Dallas, TX 75231.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "chunk_id": "1dfe5615aa2b74fa52e28719",
+          "quote": "ntract, those documents must be submitted at the time of Offer submission. Dallas ISD prefers responses to be submitted online via our electronic system. Please register with the iSupplier portal https://www.dallasisd.org/domain/143 This process takes up to a week, Dallas ISD asks the vendor to please register as early as possible to allow time for electronic responses. Submissions may be submitted manually. Manual submissions must be delivered to the Procurement Services Department, in a sealed envelope by the date and time stated. No fax or email submissions will be accepted. Only one format is needed. The manual submission shall consist of one (1) original hard copy. The Offeror may submit a manual response by paper via mail/FedEx/UPS etc. before the cutoff date and time at the following address: Dallas ISD Procurement Services 9400 N Central Expwy, Ste 1510 Attn: Staff Member and BID NUMBER Dallas, Tx 75231 Does the vendor agree and understand? ----------------------------------------------------------------------------------------------------------------------------------------------- Type …………………………………………………………………………………………………………………………….. Circle one from the response values be"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "chunk_id": "9335e641773aee0e349bed79",
+          "quote": "format is needed. The manual submission shall consist of one (1) original hard copy.\nThe Offeror may submit a manual response by paper via mail/FedEx/UPS etc. before the cutoff date and\ntime at the following address:\nDallas ISD\nProcurement Services\n9400 N Central Expwy, Ste 1510\nAttn: Staff Member and BID NUMBER\nDallas, Tx 75231\nDoes the vendor agree and understand?\n-----------------------------------------------------------------------------------------------------------------------------------------------\nType\n……………………………………………………………………………………………………………………………..\nCircle one from the response values below:\nYes\nNo\n\n[EXTRACTED TABLES]\nTable 1\n| SCOPE AND SPECIFICATIONS OF THE PROPOSAL |\n| --- |\n| Type …………………………………………………………………………………………………………………………….. Provide your answer below |\n| 11. Describe your company's process for maintaining an inventory of temporary replacement or \"hot swap\" devices for use by Dallas ISD while our devices are being repaired. ----------------------------------------------------------------------------------------------------------------------------------------------- Type …………………………………………………………………………………………………………………………….. Provide your answer below |\n| INSTRUCTION A"
+        }
+      ],
+      "confidence": 0.9,
+      "notes": "Both electronic and manual options available; manual must be sealed envelope."
+    },
+    "Pre Bid Meeting": {
+      "value": "June 10, 2024 2:00 PM CST via TEAMS video conference; attendance encouraged.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "chunk_id": "80ffdda1f7850c7b794a17ef",
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices\n\nDallas ISD rev 2.0\nPage 2 of 40\nBuyer\nALZATE, JASMINE\nEmail\nJALZATE@dallasisd.org\n1 Header Information\n1.1 General Information\nFirst Advertisement Date/Issue Date\n26-MAY-2024 08:00:00\nSecond Advertisement Date\n02-JUN-2024 08:00:00\nPre-Proposal Meeting\n10-JUN-2024 14:00:00\nQuestions Deadline\n11-JUN-2024 16:00:00\nQuestions Response from the District\n13-JUN-2024 18:00:00\nSolicitation Due\n27-JUN-2024 14:00:00\nAnticipated Evaluation & Sel\n11-JUL-2024 14:00:00\nAnticipated Approval/Award\n22-AUG-2024 18:00:00\nPre-Proposal\nA pre-proposal meeting will be held at 2:00 PM CST via TEAMS video conference on June 10,\n2024. Please submit (in writing) any questions regarding this RFP. Only written questions will be\nconsidered. It is highly encouraged that all potential proposers participate and attend the preproposal.\nJoin TEAMS Meeting: https://www.microsoft.com/en-us/microsoft-teams/join-a-meeting\nMeeting ID: 270 031 467 036\nPasscode: N9ndKY\n1.2 Terms\nInitial Term:\n3\nRenewal 1:\n1\nRenewal 2:\n1\nAny contract that results from this solicitation and upon Mutual Agreement of the awarded vendor and the\nDistrict, may be extended n"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": "Meeting held via TEAMS; attendance encouraged."
+    },
+    "Delivery Date": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "No delivery date specified in provided evidence."
+    }
+  },
+  "evidence_count": 11,
+  "latency_ms": 15949.95,
+  "model": "openai/gpt-oss-20b"
+}

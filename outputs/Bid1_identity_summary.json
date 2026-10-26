@@ -1,0 +1,111 @@
+{
+  "bid_id": "Bid1",
+  "extraction_group": "identity_summary",
+  "fields": {
+    "Bid Number": {
+      "value": "168884",
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": null,
+          "chunk_id": "2fb923e56d34d2d9ff3372b2",
+          "quote": "Student and Staff Computing Devices **SOURCING #168884** - Bid Information - {3} | BidNet Direct\n\nLoading...\nOk\nSkip to main content\nGo to homepage\nSolicitations\nSearch\nSearch\nBlank Envelope\nMatching Profiles\nBlank Envelope\nSaved Searches\nBid Management\nBid Management\nDartboard\nQualifications\nContracts\nContract Management\nReports\nDashboard\nDashboard\nRequested Documents\nRequested Documents\nParticipating Organizations\nParticipating Organizations\nParticipating Organizations\nHelp\nHelp\nAvatar\nMy Profile\nMy Organization\nContacts\nPurchasing Groups\nFinance\nServices\nLogout\nMy Profile\nMy Organization\nContacts\nPurchasing Groups\nFinance\nServices\nLogout\n​\nSearch\nSearch\nBlank Envelope\nMatching Profiles\nBlank Envelope\nSaved Searches\nBid Management\nBid Management\nDartboard\nQualifications\nDashboard\nDashboa"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3,
+          "chunk_id": "a73d97349034b6240465446c",
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices\n\nDallas ISD rev 2.0\nPage 3 of 40\nSCOPE AND SPECIFICATIONS OF THE\nPROPOSAL\nrequirements to procure vendors who provide goods or services purchased by Dallas ISD using federal\ndollars. This proposal may be used with local, state, federal, and grant-funded programs.\nPURPOSE OF REQUEST FOR PROPOSAL (RFP)\nThis Request for Proposal (RFP) will be for student and staff computing devices, including laptops,\ndesktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may\nsubmit proposals for one, several, or all categories of devices required by the District. Within each category\nof device, the District reserves the right to award contracts to a single vendor or multiple vendors.\nTh"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    },
+    "Title": {
+      "value": "Student and Staff Computing Devices",
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": null,
+          "chunk_id": "2fb923e56d34d2d9ff3372b2",
+          "quote": "Student and Staff Computing Devices **SOURCING #168884** - Bid Information - {3} | BidNet Direct\n\nLoading...\nOk\nSkip to main content\nGo to homepage\nSolicitations\nSearch\nSearch\nBlank Envelope\nMatching Profiles\nBlank Envelope\nSaved Searches\nBid Management\nBid Management\nDartboard\nQualifications\nContracts\nContract Management\nReports\nDashboard\nDashboard\nRequested Documents\nRequested Documents\nParticipating Organizations\nParticipating Organizations\nParticipating Organizations\nHelp\nHelp\nAvatar\nMy Profile\nMy Organization\nContacts\nPurchasing Groups\nFinance\nServices\nLogout\nMy Profile\nMy Organization\nContacts\nPurchasing Groups\nFinance\nServices\nLogout\n​\nSearch\nSearch\nBlank Envelope\nMatching Profiles\nBlank Envelope\nSaved Searches\nBid Management\nBid Management\nDartboard\nQualifications\nDashboard\nDashboa"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3,
+          "chunk_id": "a73d97349034b6240465446c",
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices\n\nDallas ISD rev 2.0\nPage 3 of 40\nSCOPE AND SPECIFICATIONS OF THE\nPROPOSAL\nrequirements to procure vendors who provide goods or services purchased by Dallas ISD using federal\ndollars. This proposal may be used with local, state, federal, and grant-funded programs.\nPURPOSE OF REQUEST FOR PROPOSAL (RFP)\nThis Request for Proposal (RFP) will be for student and staff computing devices, including laptops,\ndesktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may\nsubmit proposals for one, several, or all categories of devices required by the District. Within each category\nof device, the District reserves the right to award contracts to a single vendor or multiple vendors.\nTh"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    },
+    "Installation": {
+      "value": "Software installation of devices as part of deployment services.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 7,
+          "chunk_id": "bb5752c310b6f2f8014aef14",
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices\n\nDallas ISD rev 2.0\nPage 7 of 40\nSCOPE AND SPECIFICATIONS OF THE\nPROPOSAL\n1. Provide examples of previously awarded contracts that demonstrate your company's ability to track and\ndeliver multiple shipments of various computer types to multiple locations in a timely manner. (i.e., process\nand procedures guide, schedules of past awards, timelines, etc.)\n-----------------------------------------------------------------------------------------------------------------------------------------------\nType\n……………………………………………………………………………………………………………………………..\nProvide your answer below\n2. Describe your company's ability to perform each of the deployment services described above. These\nservices include (a) software installation, (b"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    },
+    "contact_info": {
+      "value": "Sherri Williams, shewilli@dallasisd.org; Oracle Finance Development Team, DGOracleFDTeam@dallasisd.org; Phone (972)925-4100",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 61,
+          "chunk_id": "1a8dc3659a650b20f341ee88",
+          "quote": "Dallas Independent School District\nPunch-out Setup Request\n\nPlease direct all procurement questions to Sherri Williams at shewilli@dallasisd.org.\nPlease direct all technical questions to Oracle Finance Development Team at DGOracleFDTeam@dallasisd.org.\nPLEASE COMPLETE THE FORM BELOW AND RETURN TO DGORACLEFDTEAM@DALLASISD.ORG.\nDallas ISD Procurement Application:\nOracle Applications, Release 12\n\nResource Guides:\nOracle Supplier's Guide to Punchout\ncXML Guide\nSupplier Details\nSupplier Name\n\nSupplier Address 1\n\nSupplier Address 2\n\nCity\n\nState\n\nZip\n\nSupplier Contact Information\nPrimary Supplier Contact\nPrimary Technical Contact\nName\n\nTitle\n\nOffice Phone\n\nMobile Phone\n\nEmail\n\nCredentials\nTest\nProduction\nFrom Domain (DISD)\nDUNS\nDUNS\nFrom Identity (DISD)\n9729254100-cxml\n9729254100-cxml\nTo Domain (S"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 1,
+          "chunk_id": "83acfd6d535eefc911b4e82b",
+          "quote": "Dallas ISD rev 1.0\nPage 1 of 40\nPURCHASING DEPARTMENT\n9400 North Central Expressway, Suite 1510, Dallas, TX 75231\n(972)925-4100\nRequest For Proposal 168884\nJA-207652 Student and Staff Computing Devices"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    },
+    "company_name": {
+      "value": "Dallas Independent School District",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 1,
+          "chunk_id": "83acfd6d535eefc911b4e82b",
+          "quote": "Dallas ISD rev 1.0\nPage 1 of 40\nPURCHASING DEPARTMENT\n9400 North Central Expressway, Suite 1510, Dallas, TX 75231\n(972)925-4100\nRequest For Proposal 168884\nJA-207652 Student and Staff Computing Devices"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    },
+    "Bid Summary": {
+      "value": "The RFP seeks vendors to supply new student and staff computing devices—laptops, desktops, tablets, and monitors—to Dallas ISD. Vendors may bid on any or all device categories, and the district may award contracts to one or multiple vendors per category. The solicitation requires new equipment, adherence to OEM specifications, and deployment services including software installation.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3,
+          "chunk_id": "a73d97349034b6240465446c",
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices\n\nDallas ISD rev 2.0\nPage 3 of 40\nSCOPE AND SPECIFICATIONS OF THE\nPROPOSAL\nrequirements to procure vendors who provide goods or services purchased by Dallas ISD using federal\ndollars. This proposal may be used with local, state, federal, and grant-funded programs.\nPURPOSE OF REQUEST FOR PROPOSAL (RFP)\nThis Request for Proposal (RFP) will be for student and staff computing devices, including laptops,\ndesktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may\nsubmit proposals for one, several, or all categories of devices required by the District. Within each category\nof device, the District reserves the right to award contracts to a single vendor or multiple vendors.\nTh"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3,
+          "chunk_id": "5d1d1a2178491c6dc8b9832f",
+          "quote": "certifications must be submitted with each proposal. Vendors must provide demonstrated competencies and\nreferences in delivering the magnitude of devices listed on the price sheet. This supporting documentation\nmay include details of past projects, statements in reference letters, and/or project plans.\nEquipment Requirements\nAll equipment must be new and of the manufacturer's current model in production at the time of each order\nexecuted over the life of the contracts resulting from this RFP. All standard or optional equipment must be as\nadvertised by the original equipment manufacturer (OEM) and must not consist of substitute or aftermarket\nequipment. Equipment attachments or parts to be installed must follow the manufacturer's recommendations\nor standard industry practices.\nDeployment Se"
+        }
+      ],
+      "confidence": 1.0,
+      "notes": null
+    }
+  },
+  "evidence_count": 8,
+  "latency_ms": 18941.76,
+  "model": "openai/gpt-oss-20b"
+}
