@@ -19,7 +19,7 @@ class Settings(BaseSettings):
     processed_data_dir: Path =  "data/processed"
     chroma_persist_dir: Path =  "data/indexes/chroma"
 
-    pinecone_api_key: SecretStr = SecretStr("")
+    pinecone_api_key: SecretStr = SecretStr("pcsk_2fVUAc_XUAykGrHDY5GvLrVAcVSpi3vpvwDTzvHGJuwjaZaj4Ee5Ai64pXsLGT3VerMFq")
     pinecone_index_name: str = "emplay-assignment"
     pinecone_namespace: str = "rfp-bids"
 
