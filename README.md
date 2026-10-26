@@ -307,3 +307,27 @@ Null values are not automatically errors: the relevant field may not appear in t
 - The retrieval evaluation remains limited to 20 question/source test cases.
 - The retrieval metrics show a trade-off: hybrid retrieval improved MRR@5 but reduced Recall@5 compared with vector-only retrieval on this dataset.
 
+
+## Design Decisions & Trade-offs
+
+I chose these technologies based on the assignment requirements, available tools, and development time. These are practical choices, not necessarily the optimal solutions.
+
+| Decision | Why I chose it | Possible improvement |
+|---|---|---|
+| **Python** | Good ecosystem for AI, document processing, and APIs. | Improve production structure and error handling. |
+| **Groq + GPT-OSS 20B** | Available API for question answering and structured extraction without hosting a model locally. | Benchmark other models for accuracy, speed, and cost. |
+| **Gemini Embeddings (768 dimensions)** | Easy API integration; 768 dimensions matched my Pinecone index. | Compare embedding models using retrieval metrics. |
+| **Chunking: 2,800 characters, 350 overlap** | Keeps related text together while preserving some context between chunks. | Test different sizes and structure-aware chunking. |
+| **Pinecone** | Used a managed vector database after encountering a local ChromaDB environment issue. | Evaluate local alternatives for portability. |
+| **Hybrid Search (Vector + BM25 + RRF)** | Combines semantic understanding with keyword matching for exact IDs and technical terms. | Tune retrieval and test a reranker. |
+| **Specialized Agents** | Separates logistics, legal, product, and identity extraction into manageable tasks. | Integrate agents into one orchestrated workflow with bounded retries. |
+| **Citations + Validation** | Makes extracted values traceable and catches missing fields or invalid source references. | Verify factual accuracy against source documents. |
+
+### Evaluation and Limitations
+
+On the current 20-question evaluation set, vector-only search achieved Recall@5 of **0.950** and MRR@5 of **0.704**. Hybrid search achieved Recall@5 of **0.900** and MRR@5 of **0.742**. Hybrid search improved ranking but did not retrieve relevant evidence for as many questions.
+
+Chunking parameters and model choices were not exhaustively benchmarked. OCR is not enabled, and five pages of the main Bid1 PDF produced no parsed text. The current pipeline also requires more end-to-end testing and source-level verification.
+
+With more time, I would prioritize improving document coverage, testing retrieval alternatives, validating extracted values, and integrating the agents into a single workflow.
+
